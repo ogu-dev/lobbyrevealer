@@ -1,2 +1,1 @@
-# lobbyrevealer
-VALORANT Lobby Revealer information
+# nothing to see here guys
